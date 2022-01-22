@@ -1,0 +1,18 @@
+Sat Jan 22 17:53:08 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Sat Jan 22 17:53:08 2022
+No ARsim registration found!
+
+Sat Jan 22 17:53:08 2022
+InstanceName: 01d80f9fc4b124f0
+
+Sat Jan 22 17:53:08 2022
+WorkingDirectory: D:\BrAutomation45\LABA4FINAL\LABA4FINAL\Temp\Simulation\Real\4PP065_0571_P74\
+
+Sat Jan 22 17:53:08 2022
+COMMAND_COLDSTART
+
+Sat Jan 22 17:53:11 2022
+Version: D4.52
+
